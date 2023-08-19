@@ -1,3 +1,6 @@
+## Check it out on the website 
+[Live Demo of Income and Expense Tracker](https://ng-income-expenditure-tracker.netlify.app/)
+
 ## Demo of the app
 ![Screenshot of Demo App](./income.png)
 
