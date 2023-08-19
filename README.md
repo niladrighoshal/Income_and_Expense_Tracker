@@ -1,4 +1,7 @@
+## Demo of the app
+![Screenshot of Demo App](./income.png)
 
+![Screenshot of Demo App](./income mobile.png)
 
 ## Available Scripts
 
