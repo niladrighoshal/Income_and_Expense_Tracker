@@ -1,7 +1,7 @@
 ## Demo of the app
 ![Screenshot of Demo App](./income.png)
 
-![Screenshot of Demo App](./income mobile.png)
+![Screenshot of Demo App](https://github.com/niladrighoshal/Income_and_Expense_Tracker/blob/a3e6f1a7598bfca61ec8d46e9e7b5ed0b02c8b0e/income%20mobile.png)
 
 ## Available Scripts
 
